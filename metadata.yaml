@@ -1,0 +1,35 @@
+_repo: West-Point-An-Intimate-Picture-of-the-National-Military-Academy-and-of-the-Life-of-the-Cadet_57316
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Scott, Hugh Lenox
+    alias: Scott, Hugh L.
+    birthdate: 1853
+    deathdate: 1934
+    gutenberg_agent_id: '46154'
+    url: http://www.gutenberg.org/2009/agents/46154
+creator:
+  author:
+    agent_name: Richardson, Robert C. (Robert Charlwood)
+    birthdate: 1882
+    deathdate: 1954
+    gutenberg_agent_id: '49310'
+    url: http://www.gutenberg.org/2009/agents/49310
+    wikipedia: https://en.wikipedia.org/wiki/Robert_C._Richardson_Jr.
+description: ''
+gutenberg_issued: '2018-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57316'
+  lccn: '17025795'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States Military Academy'
+- !lcc 'U'
+- GITenberg
+title: "West Point\r\nAn Intimate Picture of the National Military Academy and of\
+  \ the Life of the Cadet"
+url: http://www.gutenberg.org/ebooks/57316
