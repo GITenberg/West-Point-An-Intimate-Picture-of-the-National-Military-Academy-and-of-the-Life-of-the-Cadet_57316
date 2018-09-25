@@ -8,6 +8,9 @@ contributor:
     deathdate: 1934
     gutenberg_agent_id: '46154'
     url: http://www.gutenberg.org/2009/agents/46154
+covers:
+- cover_type: archival
+  image_path: 57316-h/images/cover.jpg
 creator:
   author:
     agent_name: Richardson, Robert C. (Robert Charlwood)
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49310
     wikipedia: https://en.wikipedia.org/wiki/Robert_C._Richardson_Jr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57316#West-Point-An-Intimate-Picture-of-the-National-Military-Academy-and-of-the-Life-of-the-Cadet
 gutenberg_issued: '2018-06-13'
 gutenberg_type: Text
 identifiers:
